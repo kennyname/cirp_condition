@@ -1,0 +1,13 @@
+TYPE 電表型式
+PHAS 相別
+MTRNO 電表號碼
+DIALS 位數
+meeter 表別
+amp 安培
+inspectYear 檢定年
+inspectMonth 檢定月
+mtrRdg 指數
+grp 電表組別
+mults 表之倍數
+cta 比流器
+pta 比壓器
