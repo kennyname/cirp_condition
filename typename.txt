@@ -1,4 +1,5 @@
 TYPE 電表型式
+custno 電號
 PHAS 相別
 MTRNO 電表號碼
 DIALS 位數
@@ -7,7 +8,13 @@ amp 安培
 inspectYear 檢定年
 inspectMonth 檢定月
 mtrRdg 指數
-grp 電表組別
+grp、MTRGRP 電表組別
 mults 表之倍數
 cta 比流器
+  cta5 比壓分子
+  cta1 比壓分母
 pta 比壓器
+  pta6 比壓分子
+  pta3 比壓分母
+SUBID 代用別
+CTRNEW 變更後 契約種類
