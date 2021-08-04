@@ -15,3 +15,7 @@ if(StringUtils.isBlank(Trans07String) && StringUtils.isBlank(Trans09String)) {
       result=false;
   }        		        	
 } 
+
+15----
+NeedOneCardCode
+CtrClass_Limit 是否是另一個人寫的
