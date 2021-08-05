@@ -19,3 +19,6 @@ if(StringUtils.isBlank(Trans07String) && StringUtils.isBlank(Trans09String)) {
 15----
 NeedOneCardCode
 CtrClass_Limit 是否是另一個人寫的
+
+20----
+STPOWERI還沒看
