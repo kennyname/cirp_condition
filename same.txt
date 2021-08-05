@@ -137,3 +137,7 @@
 //Necessary
   - 以下欄位如果A欄有值，B欄沒值 則錯
 //STPOWERI  需量 規則
+//CardCEFLimitCycle
+  - C卡計算日不能25
+  - E卡計算日只能14
+  - F卡計算日只能25
