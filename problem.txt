@@ -24,4 +24,7 @@ CtrClass_Limit 是否是另一個人寫的
 STPOWERI還沒看
 
 41----
-Form41TypeRuleFields 
+Form41TypeRuleFields
+
+97----
+Form97NbsMarkRule
