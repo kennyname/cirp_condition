@@ -1,4 +1,7 @@
+02---
+CtrPha_LimitTotCap_04TypeNeed 是or還是and
 05---
+CtrPha_LimitTotCap_04TypeNeed 是or還是and
 Meter09_Limit
 Trans3L_ApplyLimit
 
