@@ -3,8 +3,7 @@ CtrPha_LimitTotCap_04TypeNeed 是or還是and
 05---
 CtrPha_LimitTotCap_04TypeNeed 是or還是and
 Meter09_Limit
-Trans3L_ApplyLimit
-
+Trans3L_ApplyLimit 
 08----
 Meter09_Limit
 Mtr0910_Limit_Mtr010306081112
