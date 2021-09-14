@@ -1,33 +1,12 @@
-02---
-CtrPha_LimitTotCap_04TypeNeed 是or還是and
-05---
-CtrPha_LimitTotCap_04TypeNeed 是or還是and
-Meter09_Limit
-Trans3L_ApplyLimit
 
+05---
+Meter09_Limit
 08----
 Meter09_Limit
-Mtr0910_Limit_Mtr010306081112
 
-09----
-Mtr0910_Limit_Mtr010306081112
-Tran01Rule
-if(StringUtils.isBlank(Trans07String) && StringUtils.isBlank(Trans09String)) {
-  if(!Trans07String.matches("\\w{2}")) {
-    context.buildConstraintViolationWithTemplate(context.getDefaultConstraintMessageTemplate()).addPropertyNode(this.Trans07).addConstraintViolation();     
-      result=false;
-  }        		        	
-} 
 
 15----
-NeedOneCardCode
-CtrClass_Limit 是否是另一個人寫的
+CtrClass_Limit特別注意 非problem
 
 20----
-STPOWERI還沒看
-
-41----
-Form41TypeRuleFields
-
-97----
-Form97NbsMarkRule
+STPOWERI特別注意 非problem
